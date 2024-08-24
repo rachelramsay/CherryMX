@@ -18,3 +18,6 @@ include <layouts/dactyl_manuform/4x6.scad>
 include <layouts/dactyl_manuform/4x6_legends.scad>
 
 include <layouts/plate.scad>
+
+include <layouts/numpad/default.scad>
+include <layouts/numpad/no_legends.scad>
